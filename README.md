@@ -1,2 +1,2 @@
 # invie
-studying platzi
+studying platzi courses
