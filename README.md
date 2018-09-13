@@ -1,2 +1,4 @@
 # invie
-studying platzi courses
+Las guitarras más locas
+
+http://leonidasesteban.github.io/invie-responsive/
