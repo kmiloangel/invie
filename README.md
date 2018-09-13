@@ -1,2 +1,4 @@
 # invie
-studying platzi courses
+Las guitarras más locas
+
+https://kmiloangel.github.io/invie/
